@@ -6,7 +6,8 @@ I invite you to take my premium course for React on Udemy to jumpstart your care
 
 
 
-https://www.udemy.com/course/draft/4433200/?referralCode=4A93E9642CF496AB853F
+https://www.udemy.com/course/modern-react-for-beginners-redux-router/?referralCode=4A93E9642CF496AB853F
+
 
 
 
